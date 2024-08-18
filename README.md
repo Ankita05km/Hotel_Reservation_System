@@ -6,7 +6,11 @@ The Hotel Reservation App is a web-based application designed to manage hotel bo
 #Features
 
 User Authentication: Secure login and registration system for users.
+
 Hotel Search and Booking: Allows users to search for hotels and make reservations.
+
 Booking Management: Users can view, modify, or cancel their bookings.
+
 Admin Panel: Admins can manage hotels, rooms, and reservations.
+
 Responsive Design: Optimized for both desktop and mobile devices. 
