@@ -1,5 +1,6 @@
 # Hotel Reservation System
 Overview
+
 The Hotel Reservation App is a web-based application designed to manage hotel bookings efficiently. This project was developed as part of the Full Stack Development (FSD) course, focusing on providing a seamless experience for users to book, modify, and manage hotel reservations.
 
 Features
